@@ -168,6 +168,7 @@ if __name__ == "__main__":
 
 # ```bash
 # export ANTHROPIC_API_KEY="your-api
+# $env:ANTHROPIC_API_KEY="api_key"
 # uv run runbook/04_implement_tool_execution.py
 # ```
 # Should print:
